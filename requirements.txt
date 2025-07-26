@@ -1,0 +1,30 @@
+# === Backend ===
+fastapi==0.110.0
+uvicorn==0.29.0
+
+# === Frontend ===
+streamlit==1.35.0
+
+# === LLM + Embeddings ===
+sentence-transformers==2.6.1
+torch  # Needed for sentence-transformers
+
+# === PDF parsing ===
+PyPDF2==3.0.1
+
+# === Vector DB ===
+qdrant-client==1.7.0
+
+# === Chunking ===
+langchain==0.1.14
+
+# === Clustering ===
+scikit-learn==1.4.2
+
+# === Requests for Ollama calls ===
+requests==2.32.3
+
+# === Other ===
+python-dotenv==1.0.1  # optional, if you want to store config/keys
+python-multipart
+httpx

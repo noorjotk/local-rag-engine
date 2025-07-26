@@ -1,0 +1,17 @@
+# Ignore virtual environment and caches
+venv/
+__pycache__/
+*.pyc
+
+# IDE/workspace settings
+*.code-workspace
+.vscode/
+
+# OS files
+.DS_Store
+
+# Python dotenv
+.env
+
+# Ollama cache
+/root/.ollama
