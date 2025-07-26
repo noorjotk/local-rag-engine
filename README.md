@@ -1,3 +1,5 @@
+<img width="1710" height="982" alt="RAG-3.0" src="https://github.com/user-attachments/assets/e2f0e5bd-d621-4a93-ac6d-d2064a3f379c" />
+
 # 🧠 Local RAG App with Qdrant + Ollama
 
 > **🚀 Zero-Config Setup**: Just run `docker-compose up --build` - No Python, No Ollama installation, No model downloads, No configuration files needed!
