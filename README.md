@@ -41,7 +41,7 @@ A fully local, end-to-end Retrieval-Augmented Generation (RAG) system built with
 
 ### 🔥 What Makes This Different
 
-| ❌ **Traditional RAG Setup** | ✅ **This Project** |
+|❌ **Traditional RAG Setup** |✅ **This Project** |
 |---|---|
 | Install Python manually | ✅ Containerized |
 | Download Ollama separately | ✅ Auto-installed |
@@ -86,7 +86,7 @@ docker-compose up --build
 - Pre-download the embedding model (`BAAI/bge-large-en-v1.5`)
 - Pull and load the LLM model (`phi3:3.8b-mini-128k-instruct-q4_0`)
 - Set up Qdrant vector database
-- This may take 5-10 minutes(or less) depending on your internet connection
+- This may take 10-15 minutes(or less/more) depending on your internet connection
 
 ### 3. Monitor Startup Progress
 You'll see logs indicating the startup process:
