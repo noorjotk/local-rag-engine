@@ -1,6 +1,21 @@
 <img width="1710" height="982" alt="RAG-3.0" src="https://github.com/user-attachments/assets/e2f0e5bd-d621-4a93-ac6d-d2064a3f379c" />
 
 # 🧠 Local RAG App with Qdrant + Ollama
+<div align="center">
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
+
+[![GitHub stars](https://img.shields.io/github/stars/noorjotk/local-rag-engine?style=social)](https://github.com/noorjotk/local-rag-engine/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/noorjotk/local-rag-engine?style=social)](https://github.com/noorjotk/local-rag-engine/network/members)
+
+</div>
+
 
 > **🚀 Zero-Config Setup**: Just run `docker-compose up --build` - No Python, No Ollama installation, No model downloads, No configuration files needed!
 
